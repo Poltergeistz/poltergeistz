@@ -1,12 +1,16 @@
 name: Tuesday updates
 
 on:
-  schedule:
-    # Once every Tuesday at 8 PM
-    - cron: 0 20 * * 2
   push:
-    branches:
-      - main
+    branches: [ main ]
+
+## on:
+  ## schedule:
+    # Once every Tuesday at 8 PM
+    ## - cron: 0 20 * * 2
+##  push:
+##    branches:
+##      - main
 
 jobs:
   updates:
@@ -16,6 +20,7 @@ jobs:
       - name: Update this repo's README
         uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://davidjourno.dev/rss.xml
-          readme-section: posts
+          feed-url: https://davidjourno.dev/rss
+          readme-section: feed
           empty-commits: "false"
+          template: "#### [{{ title }}]({{ link }}) \n*{{ description }}*\n\n"
