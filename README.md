@@ -19,13 +19,13 @@ If you want to work with me, let's connect.
 ### Blog posts
 <!--START_SECTION:feed-->
 #### [No code ? Pour qui ? Pourquoi?](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;no-code-pour-qui-pourquoi&#x2F;) 
-Aujourd’hui, nous entendons de plus en plus parler du mouvement no-code.
+*Aujourd’hui, nous entendons de plus en plus parler du mouvement no-code.
 
-Alors forcément, ça vaut le coup de se renseigner.
+Alors forcément, ça vaut le coup de se renseigner.*
 #### [Comment la psychologie digitale guide nos actions sur le web ?](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;comment-la-psychologie-digitale-guide-nos-actions-sur-le-web&#x2F;) 
-Vous le savez, le web c&#39;est un domaine très vaste et au delà du métier de développeur·se, il existe des compétences ou des sciences complémentaires.
+*Vous le savez, le web c&#39;est un domaine très vaste et au delà du métier de développeur·se, il existe des compétences ou des sciences complémentaires.
 
-En somme des briques qui font que, lorsqu&#39;elles sont empilées, elles apportent de la valeur à une page ou un produit.
+En somme des briques qui font que, lorsqu&#39;elles sont empilées, elles apportent de la valeur à une page ou un produit.*
 #### [L&#39;Artisanat du Web c&#39;est quoi ?](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;lartisanat-du-web-cest-quoi&#x2F;) 
 *Aujourd’hui, c’est plutôt un sujet différent que je souhaite partager mais en lien avec ce livre...*
 #### [Améliorer votre développement grace à ce companion insolite](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;ameliorer-votre-developpement&#x2F;) 
