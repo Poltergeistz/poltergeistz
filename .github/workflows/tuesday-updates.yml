@@ -23,4 +23,4 @@ jobs:
           feed-url: https://www.davidjourno.dev/rss
           readme-section: feed
           empty-commits: "false"
-          template: "#### [{{ title }}]({{ link }}) \n*{{ description }}*\n\n"
+          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
