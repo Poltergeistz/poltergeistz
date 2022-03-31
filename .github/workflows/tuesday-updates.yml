@@ -20,7 +20,7 @@ jobs:
       - name: Update this repo's README
         uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://davidjourno.dev/rss
+          feed-url: https://www.davidjourno.dev/rss
           readme-section: feed
           empty-commits: "false"
           template: "#### [{{ title }}]({{ link }}) \n*{{ description }}*\n\n"
