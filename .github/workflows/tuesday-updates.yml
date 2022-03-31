@@ -1,16 +1,12 @@
 name: Tuesday updates
 
 on:
-  push:
-    branches: [ main ]
-
-## on:
-  ## schedule:
+  schedule:
     # Once every Tuesday at 8 PM
-    ## - cron: 0 20 * * 2
-##  push:
-##    branches:
-##      - main
+    - cron: 0 20 * * 2
+  push:
+    branches:
+      - main
 
 jobs:
   updates:
