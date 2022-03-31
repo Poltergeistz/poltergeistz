@@ -18,6 +18,16 @@ If you want to work with me, let's connect.
 
 ### Blog posts
 <!--START_SECTION:feed-->
+#### [No code ? Pour qui ? Pourquoi?](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;no-code-pour-qui-pourquoi&#x2F;) 
+**
+#### [Comment la psychologie digitale guide nos actions sur le web ?](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;comment-la-psychologie-digitale-guide-nos-actions-sur-le-web&#x2F;) 
+**
+#### [L&#39;Artisanat du Web c&#39;est quoi ?](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;lartisanat-du-web-cest-quoi&#x2F;) 
+**
+#### [Améliorer votre développement grace à ce companion insolite](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;ameliorer-votre-developpement&#x2F;) 
+**
+#### [Envie de gagner du temps ? Voici un outil génial !](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;un-outil-genial&#x2F;) 
+**
 <!--END_SECTION:feed-->
 
 <!--
