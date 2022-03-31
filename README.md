@@ -17,8 +17,8 @@ If you want to work with me, let's connect.
 [![Blog](https://img.shields.io/badge/Blog-Vist-blueviolet?style=for-the-badge&logo=ghost)](https://www.davidjourno.dev)
 
 ### Blog posts
-<!--START_SECTION:posts-->
-<!--END_SECTION:posts-->
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
 
 <!--
 **Poltergeistz/poltergeistz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
