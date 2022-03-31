@@ -19,24 +19,19 @@ If you want to work with me, let's connect.
 ### Blog posts
 <!--START_SECTION:feed-->
 #### [No code ? Pour qui ? Pourquoi?](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;no-code-pour-qui-pourquoi&#x2F;) 
-*Aujourd’hui, nous entendons de plus en plus parler du mouvement no-code.
+<em>Aujourd’hui, nous entendons de plus en plus parler du mouvement no-code.
 
-Alors forcément, ça vaut le coup de se renseigner.*
-*
+Alors forcément, ça vaut le coup de se renseigner.</em>
 #### [Comment la psychologie digitale guide nos actions sur le web ?](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;comment-la-psychologie-digitale-guide-nos-actions-sur-le-web&#x2F;) 
-*Vous le savez, le web c&#39;est un domaine très vaste et au delà du métier de développeur·se, il existe des compétences ou des sciences complémentaires.
+<em>Vous le savez, le web c&#39;est un domaine très vaste et au delà du métier de développeur·se, il existe des compétences ou des sciences complémentaires.
 
-En somme des briques qui font que, lorsqu&#39;elles sont empilées, elles apportent de la valeur à une page ou un produit.*
-*
+En somme des briques qui font que, lorsqu&#39;elles sont empilées, elles apportent de la valeur à une page ou un produit.</em>
 #### [L&#39;Artisanat du Web c&#39;est quoi ?](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;lartisanat-du-web-cest-quoi&#x2F;) 
-*Aujourd’hui, c’est plutôt un sujet différent que je souhaite partager mais en lien avec ce livre...*
-*
+<em>Aujourd’hui, c’est plutôt un sujet différent que je souhaite partager mais en lien avec ce livre...</em>
 #### [Améliorer votre développement grace à ce companion insolite](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;ameliorer-votre-developpement&#x2F;) 
-*En parcourant mes anciennes slides, je suis retombé sur un sujet totalement inconnu pour moi au départ mais qui m’a apporté son lot de réflexions...*
-*
+<em>En parcourant mes anciennes slides, je suis retombé sur un sujet totalement inconnu pour moi au départ mais qui m’a apporté son lot de réflexions...</em>
 #### [Envie de gagner du temps ? Voici un outil génial !](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;un-outil-genial&#x2F;) 
-*Il y a un petit moment déjà, j&#39;avais découvert un outil vraiment chouette...*
-*
+<em>Il y a un petit moment déjà, j&#39;avais découvert un outil vraiment chouette...</em>
 <!--END_SECTION:feed-->
 
 <!--
