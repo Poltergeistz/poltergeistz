@@ -18,6 +18,10 @@ If you want to work with me, let's connect.
 
 ### Blog posts
 <!--START_SECTION:feed-->
+#### [Catastrophe ! Il faut que je change de thème !](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;catastrophe-il-faut-que-je-change-de-theme&#x2F;) 
+<em>Je suis très attaché aux actions pour le climat et la planète.
+
+Et en tant que développeur, je ne me vois pas développer sans faire l’impasse sur la sobriété numérique et l’éco-conception.</em>
 #### [No code ? Pour qui ? Pourquoi?](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;no-code-pour-qui-pourquoi&#x2F;) 
 <em>Aujourd’hui, nous entendons de plus en plus parler du mouvement no-code.
 
@@ -30,8 +34,6 @@ En somme des briques qui font que, lorsqu&#39;elles sont empilées, elles apport
 <em>Aujourd’hui, c’est plutôt un sujet différent que je souhaite partager mais en lien avec ce livre...</em>
 #### [Améliorer votre développement grace à ce companion insolite](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;ameliorer-votre-developpement&#x2F;) 
 <em>En parcourant mes anciennes slides, je suis retombé sur un sujet totalement inconnu pour moi au départ mais qui m’a apporté son lot de réflexions...</em>
-#### [Envie de gagner du temps ? Voici un outil génial !](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;un-outil-genial&#x2F;) 
-<em>Il y a un petit moment déjà, j&#39;avais découvert un outil vraiment chouette...</em>
 <!--END_SECTION:feed-->
 
 <!--
