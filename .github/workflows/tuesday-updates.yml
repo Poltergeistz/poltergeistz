@@ -18,5 +18,6 @@ jobs:
         with:
           feed-url: https://www.davidjourno.dev/rss
           readme-section: feed
+          branch: main
           empty-commits: "false"
           template: "#### [{{ title }}]({{ link }}) \n<em>{{ contentSnippet }}</em>\n\n"
