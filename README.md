@@ -16,6 +16,8 @@ If you want to work with me, let's connect.
 
 [![Blog](https://img.shields.io/badge/Blog-Vist-blueviolet?style=for-the-badge&logo=ghost)](https://www.davidjourno.dev)
 
+![image](https://www.codewars.com/users/Poltergeistz/badges/micro)
+
 ### Blog posts
 <!--START_SECTION:feed-->
 #### [Catastrophe ! Il faut que je change de thème !](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;catastrophe-il-faut-que-je-change-de-theme&#x2F;) 
@@ -35,6 +37,7 @@ En somme des briques qui font que, lorsqu&#39;elles sont empilées, elles apport
 #### [Améliorer votre développement grace à ce companion insolite](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;ameliorer-votre-developpement&#x2F;) 
 <em>En parcourant mes anciennes slides, je suis retombé sur un sujet totalement inconnu pour moi au départ mais qui m’a apporté son lot de réflexions...</em>
 <!--END_SECTION:feed-->
+
 
 <!--
 **Poltergeistz/poltergeistz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
