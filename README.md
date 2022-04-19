@@ -20,6 +20,10 @@ If you want to work with me, let's connect.
 
 ### Blog posts
 <!--START_SECTION:feed-->
+#### [La passion pour être dev, c&#39;est obligatoire ?](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;la-passion-pour-etre-dev-cest-obligatoire&#x2F;) 
+<em>Si je vous dis qu&#39;au départ quand j&#39;ai commencé à me former pour devenir développeur, le code me donnait des maux de tête.</em>
+#### [Ne perdez plus votre temps à remplir votre Readme manuellement grâce aux actions](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;ne-perdez-plus-votre-temps-a-remplir-votre-readme-manuellement-grace-aux-actions&#x2F;) 
+<em>Il y a une semaine, je me suis dit que ça serait sympa de dépoussiérer mon README.md de profil sur Github.</em>
 #### [Catastrophe ! Il faut que je change de thème !](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;catastrophe-il-faut-que-je-change-de-theme&#x2F;) 
 <em>Je suis très attaché aux actions pour le climat et la planète.
 
@@ -32,10 +36,6 @@ Alors forcément, ça vaut le coup de se renseigner.</em>
 <em>Vous le savez, le web c&#39;est un domaine très vaste et au delà du métier de développeur·se, il existe des compétences ou des sciences complémentaires.
 
 En somme des briques qui font que, lorsqu&#39;elles sont empilées, elles apportent de la valeur à une page ou un produit.</em>
-#### [L&#39;Artisanat du Web c&#39;est quoi ?](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;lartisanat-du-web-cest-quoi&#x2F;) 
-<em>Aujourd’hui, c’est plutôt un sujet différent que je souhaite partager mais en lien avec ce livre...</em>
-#### [Améliorer votre développement grace à ce companion insolite](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;ameliorer-votre-developpement&#x2F;) 
-<em>En parcourant mes anciennes slides, je suis retombé sur un sujet totalement inconnu pour moi au départ mais qui m’a apporté son lot de réflexions...</em>
 <!--END_SECTION:feed-->
 
 
