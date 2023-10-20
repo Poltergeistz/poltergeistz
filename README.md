@@ -2,9 +2,9 @@
 
 I'm David Journo, Freelance Fullstack Developer looking to be part of innovative projects, I love to share knowledge and ideas on how we can solve problems with quality and sustainable solutions.
 
-🔭 I’m currently working on creating my <a href="https://davidjourno.dev">Blog</a> with Next.js / Ghost CMS as a side project for my business and publishing my own content around web security, best practices in web quality and also sustainable apps.
+🔭 I’m currently working on Open Source projects.
 
-For 2022, 🌱 I’m currently learning about Dev Sec Ops. And more others things such as Nest.js and No-code tools.
+For 2024, my goal is to learn Rustlang 🦀, cool stuff about linked data and more web app purple team.
 
 👯 I’m always looking to collaborate on projects. So feel free to reach me here on github 📫 
 
