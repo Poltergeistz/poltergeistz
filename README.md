@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm David Journo, Freelance Fullstack Developer looking to be part of innovative projects, I love to share knowledge and ideas on how we can solve problems with quality and sustainable solutions.
 
@@ -18,7 +18,50 @@ If you want to work with me, let's connect.
 
 ![image](https://www.codewars.com/users/Poltergeistz/badges/micro)
 
-### Blog posts
+## Languages and Tools 
+
+### Languages:
+| Javascript | Typescript | Python3 | Rust |
+|----------|----------|----------|----------|
+|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="Javascript"  alt="Logo Javascript" width="55" height="55"/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="Typescript"  alt="Logo Typescript" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"  alt="Logo Python" width="55" height="55"/>  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" title="Rust" alt="Logo Rust" width="55" height="55"/>| 
+
+
+### Main libraries for the web:
+
+| Emberjs | React | Nextjs | TailwindCSS | Supabase | Nodejs | Threejs
+|----------|----------|----------|----------|----------|----------|----------|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ember/ember-original-wordmark.svg" title="Emberjs" alt="Logo EmberJs" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" title="React" alt="Logo React" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="Logo NextJs" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" alt="Logo Tailwindcss" width="55" height="55"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original-wordmark.svg" title="Supabase" alt="Logo Supabase" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="Logo NodeJS" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" title="Threejs" alt="Logo NodeJS" width="55" height="55"/> |
+  
+
+### Main libraries for Python3:
+
+| Pandas | Flask |
+|----------|----------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="Pandas" alt="Logo Pandas" width="55" height="55"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask" alt="Logo Flask" width="55" height="55"/> |
+
+
+### Data Manipulation & Visualisation:
+
+| GraphQL  | SPARQL | Virtuoso | PostgreSQL | MongoDB | Conda | Jupyter |
+|----------|----------|----------|----------|----------|----------|----------|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="Logo GraphQL" width="55" height="55"/> |<img src="https://github.com/Poltergeistz/poltergeistz/assets/38471754/ddc57e5a-c90d-46a0-a446-697b59f6ee4b" title="SPARQL" alt="Logo SPARQL" width="55" height="55"/>|<img src="https://github.com/Poltergeistz/poltergeistz/assets/38471754/d78f6c8b-919c-4012-9d83-8b8d1bff2683" title="Virtuoso" alt="Logo Virtuoso" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="Logo PostgreSQL" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="Logo MongoDB" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Logo Conda" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Logo Jupiter" width="55" height="55"/>|
+
+  
+### Other tools:
+
+| Git | Docker | WoodpeckerCI | Swagger | Postman | VMWare | Farm |
+|----------|----------|----------|----------|----------|----------|----------|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git" alt="Logo Git" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Logo Docker" width="55" height="55"/>| <img src="https://woodpecker-ci.org/img/logo.svg" title="WoodpeckerCI" alt="Logo WoodpeckerCI" width="55" height="55"/> |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Logo Swagger" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Logo Postman" width="55" height="55"/>|<img src="https://1000logos.net/wp-content/uploads/2021/05/VMware-logo.png" title="VMware" alt="Logo VMware" width="55" height="55"/>| <img src="https://www.farmfe.org/img/logo.png" title="Farm" alt="Logo Farm" width="55" height="55"/> |
+
+
+### OS:
+
+| Linux | Ubuntu | Kali |
+|----------|----------|----------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Logo Linux" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Logo Ubuntu" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/1920px-Kali_Linux_2.0_wordmark.svg.png" title="Kali Linux" alt="Logo Kali Linux" width="55" height="55"/> |
+
+
+## Blog posts
 <!--START_SECTION:feed-->
 #### [La passion pour être dev, c&#39;est obligatoire ?](https:&#x2F;&#x2F;www.davidjourno.dev&#x2F;la-passion-pour-etre-dev-cest-obligatoire&#x2F;) 
 <em>Si je vous dis qu&#39;au départ quand j&#39;ai commencé à me former pour devenir développeur, le code me donnait des maux de tête.</em>
