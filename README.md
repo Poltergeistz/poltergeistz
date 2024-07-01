@@ -21,9 +21,10 @@ If you want to work with me, let's connect.
 ## Languages and Tools 
 
 ### Languages:
-| Javascript | Typescript | Python3 | Rust |
-|----------|----------|----------|----------|
-|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="Javascript"  alt="Logo Javascript" width="55" height="55"/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="Typescript"  alt="Logo Typescript" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"  alt="Logo Python" width="55" height="55"/>  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" title="Rust" alt="Logo Rust" width="55" height="55"/>| 
+| Javascript | Typescript | Python3 | Rust | BASH |
+|----------|----------|----------|----------|----------|
+|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="Javascript"  alt="Logo Javascript" width="55" height="55"/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="Typescript"  alt="Logo Typescript" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"  alt="Logo Python" width="55" height="55"/>  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" title="Rust" alt="Logo Rust" width="55" height="55"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="Bash" alt="Logo Bash" width="55" height="55"/>|
+          
 
 
 ### Main libraries for the web:
