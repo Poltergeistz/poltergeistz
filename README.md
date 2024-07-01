@@ -50,10 +50,9 @@ If you want to work with me, let's connect.
   
 ### Other tools:
 
-| Git | Docker | WoodpeckerCI | Swagger | Postman | VMWare | Farm |
-|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git" alt="Logo Git" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Logo Docker" width="55" height="55"/>| <img src="https://woodpecker-ci.org/img/logo.svg" title="WoodpeckerCI" alt="Logo WoodpeckerCI" width="55" height="55"/> |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Logo Swagger" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Logo Postman" width="55" height="55"/>|<img src="https://1000logos.net/wp-content/uploads/2021/05/VMware-logo.png" title="VMware" alt="Logo VMware" width="55" height="55"/>| <img src="https://www.farmfe.org/img/logo.png" title="Farm" alt="Logo Farm" width="55" height="55"/> |
-
+| Git | Docker | WoodpeckerCI | Swagger | Postman | VMWare | Farm | Ghost |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git" alt="Logo Git" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Logo Docker" width="55" height="55"/>| <img src="https://woodpecker-ci.org/img/logo.svg" title="WoodpeckerCI" alt="Logo WoodpeckerCI" width="55" height="55"/> |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Logo Swagger" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Logo Postman" width="55" height="55"/>|<img src="https://1000logos.net/wp-content/uploads/2021/05/VMware-logo.png" title="VMware" alt="Logo VMware" width="55" height="55"/>| <img src="https://www.farmfe.org/img/logo.png" title="Farm" alt="Logo Farm" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ghost/ghost-original-wordmark.svg" title="Ghost" alt="Logo Ghost" width="55" height="55"/> |
 
 ### OS:
 
