@@ -47,6 +47,12 @@ If you want to work with me, let's connect.
 |----------|----------|----------|----------|----------|----------|----------|
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="Logo GraphQL" width="55" height="55"/> |<img src="https://github.com/Poltergeistz/poltergeistz/assets/38471754/ddc57e5a-c90d-46a0-a446-697b59f6ee4b" title="SPARQL" alt="Logo SPARQL" width="55" height="55"/>|<img src="https://github.com/Poltergeistz/poltergeistz/assets/38471754/d78f6c8b-919c-4012-9d83-8b8d1bff2683" title="Virtuoso" alt="Logo Virtuoso" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="Logo PostgreSQL" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="Logo MongoDB" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Logo Conda" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Logo Jupiter" width="55" height="55"/>|
 
+### AI
+
+| LM studio  |
+|----------|
+|<img src="https://github.com/Poltergeistz/poltergeistz/assets/38471754/c9fc2cf1-e49c-428a-a094-3555ba5aaae8" title="LM Studio" alt="Logo LM Studio" width="55" height="55"/> |
+
   
 ### Other tools:
 
