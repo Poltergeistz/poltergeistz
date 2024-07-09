@@ -2,7 +2,7 @@
 
 I'm David Journo, Freelance Fullstack Developer looking to be part of innovative projects, I love to share knowledge and ideas on how we can solve problems with quality and sustainable solutions.
 
-🔭 I’m currently working on Open Source projects.
+🔭 I’m currently working on Open Source projects, building my SaaS boilerplate and shipping cool side projects.
 
 For 2024, my goal is to learn Rustlang 🦀, cool stuff about linked data and more web app purple team.
 
